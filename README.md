@@ -40,7 +40,6 @@ Each data point includes following variables:
 
 
 - **Language(s) (NLP):** en, es, fr, de, pt, pl, it, zh, ru, ja, nl, sv, ta, sr, cs, ca, he, tr, fi, eo, el, hu, uk, 'no', ar, fa, ko, ro, bg, bs, li, sq, th
-- **License:** cc-by-2.5
 
 ## Uses
 
