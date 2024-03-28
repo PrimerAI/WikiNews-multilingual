@@ -1,43 +1,4 @@
----
-license: cc-by-2.5
-language:
-- en
-- es
-- fr
-- de
-- pt
-- pl
-- it
-- zh
-- ru
-- ja
-- nl
-- sv
-- ta
-- sr
-- cs
-- ca
-- he
-- tr
-- fi
-- eo
-- el
-- hu
-- uk
-- 'no'
-- ar
-- fa
-- ko
-- ro
-- bg
-- bs
-- li
-- sq
-- th
-task_categories:
-- text-classification
-- feature-extraction
----
+
 # Wikinews - weakly aligned multilingual pararell sentence datasets
 
 This dataset contains 15,200 multilingual WikiNews articles in 33 languages.
@@ -78,16 +39,8 @@ Each data point includes following variables:
 
 
 
-- **Curated by:** Fumika Isono, Primer AI
 - **Language(s) (NLP):** en, es, fr, de, pt, pl, it, zh, ru, ja, nl, sv, ta, sr, cs, ca, he, tr, fi, eo, el, hu, uk, 'no', ar, fa, ko, ro, bg, bs, li, sq, th
 - **License:** cc-by-2.5
-
-### Dataset Sources
-
-<!-- Provide the basic links for the dataset. -->
-
-- **Repository:** [Github](https://github.com/PrimerAI/primer-research/tree/main)
-- **Paper:** ArXiv [Linear Cross-Lingual Mapping of Sentence Embeddings](https://arxiv.org/abs/2305.14256)
 
 ## Uses
 
@@ -117,7 +70,3 @@ Following is the example case where titles of the same pageid are retrieved. The
 <!-- This section describes the source data (e.g. news text and headlines, social media posts, translated sentences, ...). -->
 [Wikinews](https://www.wikinews.org/)
 
-
-## Dataset Card Authors
-
-Fumika Isono
